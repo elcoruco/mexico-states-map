@@ -1,0 +1,23 @@
+{
+  "name": "code-mexico-states",
+  "version": "1.2.0",
+  "description": "genera geometrías estatales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elcoruco/mexico-states-map.git"
+  },
+  "keywords": [
+    "mapas",
+    "mexico"
+  ],
+  "author": "el coruco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elcoruco/mexico-states-map/issues"
+  },
+  "homepage": "https://github.com/elcoruco/mexico-states-map#readme"
+}
